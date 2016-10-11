@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TopBar">
+        <attr name="cl" format="color" />
+        <attr name="leftText" format="string" />
+        <attr name="leftColor" format="color|reference" />
+        <attr name="leftSize" format="dimension" />
+        <attr name="leftBackground" format="color|reference" />
+        <attr name="leftDrawableLeft" format="reference" />
+        <attr name="leftDrawablePadding" format="dimension" />
+        <attr name="rightText" format="string" />
+        <attr name="rightColor" format="color|reference" />
+        <attr name="rightSize" format="dimension" />
+        <attr name="rightBackground" format="color|reference" />
+        <attr name="rightDrawableRight" format="reference" />
+        <attr name="rightDrawablePadding" format="dimension" />
+        <attr name="titleText" format="string" />
+        <attr name="titleColor" format="color" />
+        <attr name="titleSize" format="dimension" />
+        <attr name="titleBackground" format="color" />
+    </declare-styleable>
+
+</resources>

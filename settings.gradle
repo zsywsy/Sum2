@@ -1,0 +1,1 @@
+include ':app', ':libtools', ':libapp', ':libsamples', ':sum', ':libui', ':recyclerviewdemo', ':broadcastsender', ':broadcastreceiver', ':supportdesign', ':design', ':test', ':dialog'

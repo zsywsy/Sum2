@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.zsy.test.MainActivity">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="收电费款爱谁谁的法兰克福的"
+        android:textColor="@drawable/tv_color"/>
+
+
+    <Button
+        android:id="@+id/btn_normal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="normal"/>
+
+    <Button
+        android:id="@+id/btn_pressed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="pressed"/>
+
+
+    <Button
+        android:id="@+id/btn_selected"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="selected"/>
+
+    <Button
+        android:id="@+id/btn_start_intent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="intent"/>
+
+
+    <Button
+        android:id="@+id/btn_start_map"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="map"/>
+
+</LinearLayout>

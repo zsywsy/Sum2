@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sum2.iml" filepath="$PROJECT_DIR$/Sum2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" filepath="$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastsender/broadcastsender.iml" filepath="$PROJECT_DIR$/broadcastsender/broadcastsender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design/design.iml" filepath="$PROJECT_DIR$/design/design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialog/dialog.iml" filepath="$PROJECT_DIR$/dialog/dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libapp/libapp.iml" filepath="$PROJECT_DIR$/libapp/libapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libsamples/libsamples.iml" filepath="$PROJECT_DIR$/libsamples/libsamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libtools/libtools.iml" filepath="$PROJECT_DIR$/libtools/libtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libui/libui.iml" filepath="$PROJECT_DIR$/libui/libui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" filepath="$PROJECT_DIR$/recyclerviewdemo/recyclerviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sum/sum.iml" filepath="$PROJECT_DIR$/sum/sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/supportdesign/supportdesign.iml" filepath="$PROJECT_DIR$/supportdesign/supportdesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>

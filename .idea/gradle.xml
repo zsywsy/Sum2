@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\work\android\install\IDE\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcastreceiver" />
+            <option value="$PROJECT_DIR$/broadcastsender" />
+            <option value="$PROJECT_DIR$/design" />
+            <option value="$PROJECT_DIR$/dialog" />
+            <option value="$PROJECT_DIR$/libapp" />
+            <option value="$PROJECT_DIR$/libsamples" />
+            <option value="$PROJECT_DIR$/libtools" />
+            <option value="$PROJECT_DIR$/libui" />
+            <option value="$PROJECT_DIR$/recyclerviewdemo" />
+            <option value="$PROJECT_DIR$/sum" />
+            <option value="$PROJECT_DIR$/supportdesign" />
+            <option value="$PROJECT_DIR$/test" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
